@@ -1,0 +1,3 @@
+I have mastered the basic of ruby Now
+Hello World
+This is Ruby
